@@ -1,0 +1,4 @@
+name = input("Adınızı girin: ")
+age = int(input("Yaşınızı girin: "))
+year = str((2023 - age) + 100)
+print(name + ", 100 yaşına " + year + " yılında basacaksınız!")
